@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/windows/desktop/apiindex/windows-api-list
+https://www.geoffchappell.com/studies/windows/win32/ntdll/api/native.htm
